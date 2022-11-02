@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Python-0078D6?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-5C2D91?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
