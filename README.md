@@ -3,6 +3,7 @@
 <!--
 **BattleB0t/BattleB0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=BattleB0t&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white">
