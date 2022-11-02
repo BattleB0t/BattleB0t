@@ -51,3 +51,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Svelte-C71A36?style=for-the-badge&logo=svelte&logoColor=white)
+![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
