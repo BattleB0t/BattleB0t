@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 ## Services
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Digitalocean-0078D4?style=for-the-badge&logo=digitalocean&logoColor=white)
+![](https://img.shields.io/badge/Render-339933?style=for-the-badge&logo=render&logoColor=white)
 
 ## Frameworks
 ![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
