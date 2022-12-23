@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=BattleB0t&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
 <img src="https://visitor-badge.glitch.me/badge?page_id=BattleB0t&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
-**Disclaimer: Anything you find in my repositories is for educational use only and I'm not responsible for any damage caused**
+**Disclaimer: Anything you find in my repositories is for educational use only and I'm not responsible for any damage caused!**
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
