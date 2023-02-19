@@ -61,4 +61,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/pycord-3778ad?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/jda-6630c1?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/mcforge-2c4464?style=for-the-badge&logo=curseforge&logoColor=white)
+![](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
